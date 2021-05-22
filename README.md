@@ -22,3 +22,4 @@ git clone https://github.com/VladUsatii/OpenPharma.git
 Open from a localhost.
 
 To be continued.
+# OpenPharma
