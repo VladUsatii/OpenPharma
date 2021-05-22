@@ -1,7 +1,7 @@
 # OpenPharma
 
 
-![alt text](http://github.com/VladUsatii/OpenPharma/blob/main/OpenPharmaLOGO.png')
+![OP Logo]('https://raw.githubusercontent.com/VladUsatii/OpenPharma/main/images/OpenPharmaLOGO.png')
 
 
 Pharmaceutical design is very slow. Regulation, in-person testing, on-the-job drug-interaction training and schooling.. it is all very human-labored. What if the drug design market could be open-sourced? What if you could fork a compound and add a tweak to it? What if that tweak could be scanned by a machine-learning agent and checked for illegality?
@@ -22,4 +22,3 @@ git clone https://github.com/VladUsatii/OpenPharma.git
 Open from a localhost.
 
 To be continued.
-# OpenPharma
